@@ -22,9 +22,8 @@
 ###
 
 <div align="left">
-
-  <a href="https://x.com/undg__" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <a href="https://x.com/undg_dev" target="_blank">
+    <img src="https://github.com/user-attachments/assets/4270d351-0770-408a-9c22-0db28373c5a2" width="40" height="40" alt="X logo"  />
   </a>
   <a href="https://www.youtube.com/@undg_dev" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
