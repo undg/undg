@@ -28,7 +28,7 @@
   <a href="https://www.youtube.com/@undg_dev" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
   </a>
-  <a href="https://www.twitch.com/@undg_live" target="_blank">
+  <a href="https://www.twitch.com/undg_live" target="_blank">
     <img src="https://github.com/user-attachments/assets/34f79ba8-5533-40f3-bbdf-595bc47a1491" width="52" height="40" alt="Twitch logo"  />
   </a>
   <a href="http://linkedin.com/in/bartek-laskowski" target="_blank">
