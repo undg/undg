@@ -17,8 +17,6 @@
 
 ###
 
-<img align="right" src="https://profile-counter.glitch.me/undg/count.svg?"  />
-
 ###
 
 <div align="left">
@@ -35,3 +33,5 @@
 </div>
 
 ###
+
+<img align="right" src="https://profile-counter.glitch.me/undg/count.svg?"  />
