@@ -19,18 +19,19 @@
 
 ###
 
-<div align="left">
-  <a href="https://www.youtube.com/@undg_dev" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="208" height="160" alt="youtube logo"  />
+<div align="left"">
+  <a href="https://www.youtube.com/@undg_dev" target="_blank" style="">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" style="width: 33%; height: auto;" alt="YouTube" />
   </a>
-  <a href="https://www.twitch.com/undg_live" target="_blank">
-    <img src="https://github.com/user-attachments/assets/34f79ba8-5533-40f3-bbdf-595bc47a1491" width="208" height="160" alt="Twitch logo"  />
+  <a href="https://www.twitch.com/undg_live" target="_blank" style="">
+    <img src="https://github.com/user-attachments/assets/34f79ba8-5533-40f3-bbdf-595bc47a1491" style="width: 33%; height: auto" alt="Twitch" />
   </a>
-  <a href="http://linkedin.com/in/bartek-laskowski" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="208" height="160" alt="linkedin logo"  />
+  <a href="http://linkedin.com/in/bartek-laskowski" target="_blank" style="">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" style="width: 33%; height: auto;" alt="LinkedIn" />
   </a>
-
 </div>
+
+
 
 ###
 
