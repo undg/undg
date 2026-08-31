@@ -8,7 +8,7 @@
 
 ###
 
-<div styel={display: flex;justify-content: center}>
+<div alight="right">
   <a href="https://www.youtube.com/@bartek..." target="_blank" style="">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" style="width: 10%; height: auto;" alt="YouTube Bartek" />
   </a>
